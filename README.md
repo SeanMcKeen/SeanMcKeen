@@ -21,5 +21,5 @@
 ### [![Rarities](https://img.shields.io/badge/Rarities-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/SeanMcKeen/Rarities)
 ##### Simple python script to simulate different rarites based on the percent occurance. (Essentially a 'Legendary' rarity set to be 1% will only occur at a 1% chance)
 ### [![Decrapify](https://custom-icon-badges.demolab.com/badge/Decrapify-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/SeanMcKeen/Decrapify)
-##### Another simple script I made while working at an IT helpdesk imaging new laptops, simply removes unnecessary bloatware, if you have any suggestions please let me know, finding package names is a pain.
+##### Another simple script I made while working at an IT helpdesk imaging new laptops. Simply removes unnecessary bloatware, if you have any suggestions please let me know, finding package names is a pain.
 ---
