@@ -1,5 +1,5 @@
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-mckeen-8238a128b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-mckeen-895a27274/)
 
 ## 🛠 Proficiencies
 #### Amateur
