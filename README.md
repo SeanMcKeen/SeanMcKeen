@@ -15,7 +15,7 @@
 ##### This project is perhaps my most ambitious yet, it was the first project I made using the C++ language and served as my introduction into hardware programming. I haven't had time to complete my rewrite of it, but the main branch contains semi-functional (though unoptimized) code.
 ---
 ### Game Modifications
-### [![Placeholder](https://img.shields.io/badge/Placeholder%20-black.svg?style=for-the-badge)](#)
+### [![MorePeak](https://img.shields.io/badge/MorePeak%20-3670A0.svg?style=for-the-badge&logo=paramountplus&logoColor=white)](https://github.com/SeanMcKeen/MorePeak)
 ---
 ### Utility Tools
 ### [![Rarities](https://img.shields.io/badge/Rarities-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/SeanMcKeen/Rarities)
