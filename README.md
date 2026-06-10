@@ -12,7 +12,7 @@
 
 ## 🔦 Project Spotlight
 ### Hardware Interaction
-### [![IT Lablights](https://img.shields.io/badge/IT%20LABLIGHTS-black.svg?style=for-the-badge)](https://github.com/SeanMcKeen/IT-Lablights) 
+### [![IT Lablights](https://img.shields.io/badge/IT%20LABLIGHTS-grey.svg?style=for-the-badge)](https://github.com/SeanMcKeen/IT-Lablights) 
 ##### This project is perhaps my most ambitious yet, it was the first project I made using the C++ language and served as my introduction into hardware programming. I haven't had time to complete my rewrite of it, but the main branch contains semi-functional (though unoptimized) code.
 ---
 ### Game Modifications
